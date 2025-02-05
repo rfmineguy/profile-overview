@@ -1,6 +1,8 @@
 # profile-overview
 A repo designed to somewhat organize the projects that I have on my GitHub account
 
+## Operating Systems
+[Operating System](https://github.com/rfmineguy/2024_barebones_os)<br>
 
 ## Graphics
 [Zeungine](https://github.com/rfmineguy/Zeungine)<br>
