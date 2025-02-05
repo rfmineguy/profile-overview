@@ -1,5 +1,5 @@
 # profile-overview<br>
-A repo designed to somewhat organize the projects that I have on my GitHub account<br>
+A repository designed to somewhat organize the projects that I have on my GitHub account<br>
 <br>
 ## Operating Systems<br>
 [rfos](https://github.com/rfmineguy/2024_barebones_os) - Basic operating system with a few file system commands<br>
@@ -15,7 +15,7 @@ A repo designed to somewhat organize the projects that I have on my GitHub accou
 <br>
 <br>
 ## Command Line<br>
-[Generics Generator](https://github.com/rfmineguy/generics-generator) - A work in progress library for generating generic C data structures |<br>
+[Generics Generator](https://github.com/rfmineguy/generics-generator) - A work in progress library for generating generic C data structures<br>
 <br>
 <br>
 ## Minecraft Modding<br>
